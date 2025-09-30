@@ -44,7 +44,7 @@ Schiff, Leonard I. "Ramsauer-Townsend Effect." In _Quantum Mechanics._ 3rd ed. N
 
 Harnwell, Gaylord P., and J. J. Livinwood. "Experiments on Excitation Potentials," and "Experiments in Ionization Potentials." In _Experimental Atomic Physics._ Huntington, NY: R. E. Krieger, 1978, pp. 314-320. ISBN: 9780882756004.
 
-Rapior, G., K. Sengstock, and V. Baeva. "{{% resource_link "b85698c0-c931-4152-a65c-49b3da048523" "New Features of the Franck-Hertz Experiment" %}}." _American Journal of Physics_ 74 (2006): 423-428.
+Rapior, G., K. Sengstock, and V. Baeva. "[New Features of the Franck-Hertz Experiment](https://www.researchgate.net/publication/228966178_New_features_of_the_Franck-Hertz_experiment)." _American Journal of Physics_ 74 (2006): 423-428.
 
 Ramsauer-Townsend Effect Experiment References
 ----------------------------------------------
@@ -55,4 +55,4 @@ Richtmyer, F. K., E. H. Kennard, and T. Lauritsen. _Introduction to Modern Physi
 
 Mott, N. F., and H. S. W. Massey. "Ramsauer-Townsend." In _The Theory of Atomic Collisions._ 3rd ed. Oxford: Clarendon Press, 1965, pp. 562-579. ISBN: 9780198512424.
 
-Kukolich, Stephen G. "{{% resource_link "66d461d6-41d6-48a9-a63c-a0ce6f49b1fb" "Demonstration of the Ramsauer-Townsend Effect in a Xenon Thyratron" %}}." _American Journal of Physics_ 36, no. 8 (1968): 701-703.
+Kukolich, Stephen G. "[Demonstration of the Ramsauer-Townsend Effect in a Xenon Thyratron](https://aapt.scitation.org/doi/10.1119/1.1975094)." _American Journal of Physics_ 36, no. 8 (1968): 701-703.

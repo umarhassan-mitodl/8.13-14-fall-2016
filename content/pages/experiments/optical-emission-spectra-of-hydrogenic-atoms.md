@@ -6,6 +6,8 @@ description: Measurement of the Balmer lines of atomic hydrogen and the fine str
   in first and second order is used to study the Balmer lines of hydrogen and the
   more complex hydrogenic spectrum of sodium, using the mercury spectrum as the wavelength
   calibrator.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -34,9 +36,9 @@ Lab Guide
 References
 ----------
 
-Bohr, Niels. Nobel Prize Lecture, "{{% resource_link "757259ff-9994-474e-9501-a7aa4be36e4e" "The Structure of the Atom" %}}." (1922).
+Bohr, Niels. Nobel Prize Lecture, "[The Structure of the Atom](https://www.nobelprize.org/prizes/physics/1922/bohr/lecture/)." (1922).
 
-Lamb, Willis E. Nobel Prize Lecture, "{{% resource_link "b72bc45d-52da-4641-a9f6-e08c380d446b" "Fine Structure of the Hydrogen Atom" %}}." (1955).
+Lamb, Willis E. Nobel Prize Lecture, "[Fine Structure of the Hydrogen Atom](https://www.nobelprize.org/prizes/physics/1955/lamb/lecture/)." (1955).
 
 White, Harvey E. "Hydrogen Fine Structure and the Dirac Electron." In _Introduction to Atomic Spectra._ 1st ed. New York, NY: McGraw-Hill, 1934, pp. 132-138. ISBN: 9780070697201.
 
@@ -46,21 +48,21 @@ Eisberg, Robert M., and Robert Resnick. "Spin-Orbit Interaction Energy and the H
 
 Hansch, Theodor W., Arthur L. Schawlow, and George W. Series. "The Spectrum of Atomic Hydrogen." _Scientific American_ (March 1979): 94-110.
 
-Lamb, Willis E. "{{% resource_link "bf15b61b-c0ba-4d75-bf9f-dbf6d607856a" "Fine Structure of the Hydrogen Atom by a Microwave Method" %}}." _The Physical Review_ 72, no. 3 (1947): 241-243.
+Lamb, Willis E. "[Fine Structure of the Hydrogen Atom by a Microwave Method](https://journals.aps.org/pr/abstract/10.1103/PhysRev.72.241)." _The Physical Review_ 72, no. 3 (1947): 241-243.
 
-———. "{{% resource_link "c7b5597e-6cb6-4104-947a-52be9121f915" "Fine Structure of the Hydrogen Atom Part I" %}}." _The Physical Review_ 79, no. 4 (1950): 549-572.
+———. "[Fine Structure of the Hydrogen Atom Part I](https://journals.aps.org/pr/abstract/10.1103/PhysRev.79.549)." _The Physical Review_ 79, no. 4 (1950): 549-572.
 
-———. "{{% resource_link "f25bd584-41a0-4d56-9410-baedce408dbf" "Fine Structure of the Hydrogen Atom Part II" %}}." _The Physical Review_ 81, no. 3 (1951): 222-232.
+———. "[Fine Structure of the Hydrogen Atom Part II](https://journals.aps.org/pr/abstract/10.1103/PhysRev.81.222)." _The Physical Review_ 81, no. 3 (1951): 222-232.
 
-Hansch, Theodor W., et al. "{{% resource_link "a549a8d0-e826-40d0-9671-f140b5199e01" "Precision Measurement of the Rydberg Constant by Laser Saturation Spectroscopy of the Balmer Alpha Line in Hydrogen and Deuterium" %}}." _The Physical Review Letters_ 32, no. 24 (1974): 1336-1340.
+Hansch, Theodor W., et al. "[Precision Measurement of the Rydberg Constant by Laser Saturation Spectroscopy of the Balmer Alpha Line in Hydrogen and Deuterium](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.32.1336)." _The Physical Review Letters_ 32, no. 24 (1974): 1336-1340.
 
-Mohr, Peter J. "{{% resource_link "9784d995-09cf-482e-ad51-1041178bb656" "Lamb Shift in a Strong Coulomb Potential" %}}." _The Physical Review Letters_ 34, no. 16 (1975): 1050-1052.
+Mohr, Peter J. "[Lamb Shift in a Strong Coulomb Potential](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.34.1050)." _The Physical Review Letters_ 34, no. 16 (1975): 1050-1052.
 
 Lee, S. A., R. Wallenstein, and T. W. Hansch. "Hydrogen 1S-2S Isotope Shift and 1S Lamb Shift Measured by Laser Spectroscopy." _The Physical Review Letters_ 24, no. 19 (1975): 1262-1266.
 
 Selected Resources
 ------------------
 
-HORIBA Scientific {{% resource_link "29f156ff-edd4-45b2-bfa4-a3cf7e2420bd" "Tutorial on Optics and Spectroscopy" %}}
+HORIBA Scientific [Tutorial on Optics and Spectroscopy](http://www.horiba.com/us/en/scientific/products/optics-tutorial/)
 
-Hyperphysics Tutorial on {{% resource_link "c9fd6b70-d701-41b1-89e2-25a6eae123b3" "Broadening of Spectral Lines" %}}
+Hyperphysics Tutorial on [Broadening of Spectral Lines](http://hyperphysics.phy-astr.gsu.edu/hbase/atomic/broaden.html#c1)

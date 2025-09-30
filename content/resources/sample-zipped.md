@@ -4,6 +4,8 @@ description: ''
 file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/daf0e93be04915f0eabae37c382ece2c_sample-zipped.zip
 file_size: 1044347
 file_type: application/zip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

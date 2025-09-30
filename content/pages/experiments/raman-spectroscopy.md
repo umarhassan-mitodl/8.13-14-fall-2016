@@ -2,6 +2,8 @@
 content_type: page
 description: In this section you will use a high powered laser scattered off of a
   gaseous sample to find the rotational constants of the molecules.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -33,4 +35,4 @@ Ferraro, J.,  K. Nakamoto, and C. Brown, _Introductory Raman Spectroscopy._ Am
 
 Weber, A. _Raman Spectroscopy of Gases and Liquids (Topics in Current Physics)._ Berlin: Springer-Verlag, 1979.
 
-Edwards, D. F. and C. Y. She, "{{% resource_link "ffee33d7-6a17-4018-ad14-72e5ea0ab48a" "Laser Excited Raman Spectroscopy" %}}." _American Journal of Physics_ 40 (1972): 1389-1399.
+Edwards, D. F. and C. Y. She, "[Laser Excited Raman Spectroscopy](https://aapt.scitation.org/doi/10.1119/1.1986860)." _American Journal of Physics_ 40 (1972): 1389-1399.

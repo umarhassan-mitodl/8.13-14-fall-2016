@@ -3,6 +3,8 @@ content_type: page
 description: Determination of Boltzmann's constant, k and the centigrade temperature
   of absolute zero from measurements of Johnson noise. Determination of the average
   charge, e, of the electron from measurements of electrical shot noise.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -31,14 +33,14 @@ Lab Guide
 References
 ----------
 
-Johnson, John B. "{{% resource_link "c8edfb38-5534-438c-bb78-1fa8af8ae792" "Thermal Agitation of Electricity in Conductors" %}}." _The Physical Review_ 32, no. 1 (1928): 97-109.
+Johnson, John B. "[Thermal Agitation of Electricity in Conductors](https://journals.aps.org/pr/abstract/10.1103/PhysRev.32.97)." _The Physical Review_ 32, no. 1 (1928): 97-109.
 
-Nyquist, Harry. "{{% resource_link "cb468891-299d-4b05-a245-9f6d69eb7c53" "Thermal Agitation of Electric Charge in Conductors" %}}." _The Physical Review_ 32, no. 1 (1928): 110-113.
+Nyquist, Harry. "[Thermal Agitation of Electric Charge in Conductors](https://journals.aps.org/pr/abstract/10.1103/PhysRev.32.110)." _The Physical Review_ 32, no. 1 (1928): 110-113.
 
 Reif, Frederick. "Fourier Analysis of Random Fluctuations." Section 15.13-15 in _Fundamentals of Statistical and Thermal Physics._ New York, NY: McGraw Hill, 1965, pp. 582-587.
 
 Van der Ziel, Aldert. "Noise Figure," and "Friiss' Formula-Noise Measure." Sections 3.2 and 3.3 in _Noise in Measurement._ New York, NY: Wiley, 1976, pp. 30-38. ISBN: 9780471898955.
 
-Kittel, Peter. "{{% resource_link "5a9c06b5-ca18-48b2-be3c-0742a654240b" "Comment on the Equivalent Noise Bandwidth Approximation" %}}." _The Review of Scientific Instruments_ 48, no. 9 (1977): 1214-1215.
+Kittel, Peter. "[Comment on the Equivalent Noise Bandwidth Approximation](https://aip.scitation.org/doi/10.1063/1.1135225)." _The Review of Scientific Instruments_ 48, no. 9 (1977): 1214-1215.
 
-Kittel, Peter, W. R. Hackleman, and R. J. Donnelly. "{{% resource_link "8b981abd-d36d-41bf-9036-46e58f8727e8" "Undergraduate Experiment on Noise Thermometry" %}}." _American Journal of Physics_ 46, no. 1 (1978): 94-100.
+Kittel, Peter, W. R. Hackleman, and R. J. Donnelly. "[Undergraduate Experiment on Noise Thermometry](https://aapt.scitation.org/doi/10.1119/1.11171)." _American Journal of Physics_ 46, no. 1 (1978): 94-100.

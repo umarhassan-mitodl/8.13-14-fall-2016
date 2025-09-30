@@ -3,6 +3,8 @@ content_type: page
 description: This section provides insights and information about the course from
   the instructors.
 draft: false
+hide_download: true
+hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -85,7 +87,7 @@ Junior Lab also requires that students maintain harmonious and fair relationship
 
 I was also very fortunate to have some really driven students in my class. One student’s lab partner left the class during the first half of the semester. I volunteered to help her by filling the role of a partner. While working with her on one of the experiments, I got very curious myself, and ended up writing a detailed simulation with graphic visualization for the experiment! We tested the simulation extensively with the experimental data. After making serval updates to the code I had written, we were able to get excellent agreement between the simulation and the data. This was exciting, because it was unprecedented.
 
-I also supported another student in making similar simulations. This student was so curious and dedicated that I decided to continue working with him even after Junior Lab. Since he was working in the same field of particle physics and found my research at the Center for Theoretical Physics exciting, I realized we would make a great team. I asked my advisor to let him work with us on one of our research projects, and since then, he's been working with me through the MIT {{% resource_link "5f9abd71-f191-4620-9941-eca85da9eb81" "Undergraduate Research Opportunities Program" %}}.
+I also supported another student in making similar simulations. This student was so curious and dedicated that I decided to continue working with him even after Junior Lab. Since he was working in the same field of particle physics and found my research at the Center for Theoretical Physics exciting, I realized we would make a great team. I asked my advisor to let him work with us on one of our research projects, and since then, he's been working with me through the MIT [Undergraduate Research Opportunities Program](https://urop.mit.edu/).
 
 We have come a long way since he joined and we plan to finish this project with a publication, on which this student will be a co-author. In fact, it’s now his thesis topic!
 
@@ -144,7 +146,7 @@ The 8.13 instructors advised us to analyze data immediately after we collected t
 
 **OCW**: What advice do you have for young women interested in pursuing physics at the university level?
 
-**Talia Weiss:** I’d like to pass on three pieces of advice adapted from guidance given by MIT Professor of Physics {{% resource_link "b7b3a6f6-602b-4d40-91de-16a5c7956090" "Jesse Thaler" %}} (who intended this advice for all students, but I think it could be particularly valuable for young women in physics):
+**Talia Weiss:** I’d like to pass on three pieces of advice adapted from guidance given by MIT Professor of Physics [Jesse Thaler](http://web.mit.edu/physics/people/faculty/thaler_jesse.html) (who intended this advice for all students, but I think it could be particularly valuable for young women in physics):
 
 1. Make yourself seen—go to talks, show up to class, be active and participate.
 2. Find mentors who are concerned about your success and well-being.
@@ -152,11 +154,11 @@ The 8.13 instructors advised us to analyze data immediately after we collected t
 
 ## *Physical Review Letters* Editor Interview
 
-*Students in Junior Lab write papers in the style of* {{% resource_link "65b666b0-5b97-46f9-8237-b8abf232d724" "Physical Review Letters" %}} *to hone their science communication skills. Below, Dr. Robert Garisto, an editor of this premier journal, responds to questions about helping students and young professionals develop professional competencies as writers in the field.*
+*Students in Junior Lab write papers in the style of* [Physical Review Letters](https://journals.aps.org/prl/about) *to hone their science communication skills. Below, Dr. Robert Garisto, an editor of this premier journal, responds to questions about helping students and young professionals develop professional competencies as writers in the field.*
 
 **OCW**: Please describe your role at *Physical Review Letters* (PRL).
 
-**Dr. Robert Garisto:** The primary responsibility of a PRL editor is to decide, via a peer review process, which manuscripts submitted to PRL will be accepted for publication. I have a number of other roles, including deciding which papers we will highlight with a PRL {{% resource_link "528e1ce2-e0b7-48bf-9aa7-ec0ffa8902aa" "Editors' Suggestion" %}}, managing several junior editors, and helping chart the course for the future of the journal.
+**Dr. Robert Garisto:** The primary responsibility of a PRL editor is to decide, via a peer review process, which manuscripts submitted to PRL will be accepted for publication. I have a number of other roles, including deciding which papers we will highlight with a PRL [Editors' Suggestion](https://journals.aps.org/prl/highlights), managing several junior editors, and helping chart the course for the future of the journal.
 
 **OCW**: What challenges do you see newly-minted physicists encountering in the realm of science communication?
 
@@ -188,7 +190,7 @@ The 8.13 instructors advised us to analyze data immediately after we collected t
 ### Requirements Satisfied
 
 - CI-M ![](/images/educator/icon-question-cim.png) (8.13)
-- 8.13 and 8.14 can be applied toward a {{% resource_link "46774c44-f144-4f23-85cb-fae9eb59b6fc" "Bachelor of Science in Physics" %}}.
+- 8.13 and 8.14 can be applied toward a [Bachelor of Science in Physics](http://catalog.mit.edu/degree-charts/physics-course-8/).
 
 ### Offered
 
@@ -252,7 +254,7 @@ During an average week, students were expected to spend 18 hours on the course, 
 - In-class work was complemented by a small number of graded homework assignments, some of which took place on the 8.13 MITx residential course site.
 - Each experiment contained a set of preparatory questions which included the essentials of the experiment and safety information. Students were expected to work out the solutions to the preparatory problems in their lab notebooks and to submit answers on the 8.13 MITx residential course site before starting the experiment.
 - For each main experiment, a one-hour oral examination and discussion was scheduled for each pair of lab partners. Students rehearsed for these exams outside of class. The oral exams were video-recorded so that students could review their presentation techniques.
-- A written summary was prepared for each of the three standard experiments, plus one preliminary experiment. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the {{% resource_link "4d4e802a-9432-4991-b49c-6b87bb5d3fe3" "Writing and Communication Center." %}}
+- A written summary was prepared for each of the three standard experiments, plus one preliminary experiment. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the [Writing and Communication Center.](https://cmsw.mit.edu/writing-and-communication-center/)
 - Students prepared their final oral presentations outside of class.
 
 ## *8.14 Experimental Physics II*  
@@ -272,5 +274,5 @@ During an average week, students were expected to spend 18 hours on the course, 
 
 - Each experiment contained a set of preparatory questions which included the essentials of the experiment and safety information. Students were expected to work out the solutions to the preparatory problems in their lab notebooks and to submit answers on the 8.14 MITx residential course site before starting the experiment.
 - For each main experiment, a one-hour oral examination and discussion was scheduled for each pair of lab partners. Students rehearsed for these exams outside of class. The oral exams were video-recorded so that students could review their presentation techniques.
-- A written summary in the style of a *Physical Review Letter* was prepared for each of the three standard experiments. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the {{% resource_link "4d4e802a-9432-4991-b49c-6b87bb5d3fe3" "Writing and Communication Center." %}}
+- A written summary in the style of a *Physical Review Letter* was prepared for each of the three standard experiments. Students prepared these summaries individually outside of class. They were encouraged to work with writing consultants at the [Writing and Communication Center.](https://cmsw.mit.edu/writing-and-communication-center/)
 - Students worked on their scientific posters and presentations outside of class.

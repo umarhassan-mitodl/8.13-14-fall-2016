@@ -4,6 +4,8 @@ description: ''
 file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/ff0d77970933f70afcdc02fccdef0f75_MIT8_13-14F16_sample-paper.pdf
 file_size: 506812
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

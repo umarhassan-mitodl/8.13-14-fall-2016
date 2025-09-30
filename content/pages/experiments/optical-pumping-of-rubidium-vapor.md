@@ -34,19 +34,19 @@ Lab Guide
 References
 ----------
 
-Bell, William E., and Arnold L. Bloom. "{{% resource_link "bb7e5137-32ea-47c5-b1cb-ff90b9987ae6" "Optical Detection of Magnetic Resonance in Alkali Metal Vapor" %}}." _The Physical Review_ 107, no. 6 (1957): 1559-1565.
+Bell, William E., and Arnold L. Bloom. "[Optical Detection of Magnetic Resonance in Alkali Metal Vapor](https://journals.aps.org/pr/abstract/10.1103/PhysRev.107.1559)." _The Physical Review_ 107, no. 6 (1957): 1559-1565.
 
-Bloom, Arnold. "{{% resource_link "d529a084-7b4a-4b60-a2a6-8a134c37340b" "Optical Pumping (PDF)" %}}." _Scientific American_ (October 1960).
+Bloom, Arnold. "[Optical Pumping (PDF)](https://www.nature.com/scientificamerican/journal/v203/n4/pdf/scientificamerican1060-72.pdf)." _Scientific American_ (October 1960).
 
-De Zafra, R. L. "{{% resource_link "742b9067-3216-4594-b915-ad1b4d5d8ac2" "Optical Pumping" %}}." _American Journal of Physics_ 28 (1960): 646.
+De Zafra, R. L. "[Optical Pumping](https://aapt.scitation.org/doi/10.1119/1.1935926)." _American Journal of Physics_ 28 (1960): 646.
 
 Bernheim, Robert. _Optical Pumping - An Introduction._ New York, NY: W.A. Benjamin, 1965.
 
 Benumof, R. "Optical Pumping Theory and Experiment." _American Journal of Physics_ 33 (1965): 151-160.
 
-Nagel, M., and F. E. Haworth. "{{% resource_link "3aa3956c-f496-44c8-9056-927ab19a4356" "Advanced Laboratory Experiments on Optical Pumping of Rubidium Atoms—Part I: Magnetic Resonance" %}}." _American Journal of Physics_ 34 (1966): 553-558.
+Nagel, M., and F. E. Haworth. "[Advanced Laboratory Experiments on Optical Pumping of Rubidium Atoms—Part I: Magnetic Resonance](https://aapt.scitation.org/doi/10.1119/1.1973111)." _American Journal of Physics_ 34 (1966): 553-558.
 
-Kukolich, S. G. "{{% resource_link "026078ab-4038-4959-a514-23473fa75491" "Time Dependent of Quantum-State Amplitudes Demonstrated by Free Precession of Spins" %}}." _American Journal of Physics_ 36 (1968).
+Kukolich, S. G. "[Time Dependent of Quantum-State Amplitudes Demonstrated by Free Precession of Spins](https://aapt.scitation.org/doi/10.1119/1.1974553)." _American Journal of Physics_ 36 (1968).
 
 Richtmyer, Floyd K., E. H. Kennard, and John N. Cooper. "Atomic Structure and Optical Spectra." In _Introduction to Modern Physics._ 6th ed. New York, NY: McGraw-Hill, 1969, pp. 269-305. ISBN: 9780070525061.
 
@@ -57,8 +57,8 @@ Evans, Robley D. "Atomic and Molecular Effects of Nuclear Moment Parity, and Sta
 Selected Resources
 ------------------
 
-Bell, William E., Arnold Bloom, and James Lynch. "{{% resource_link "33ca27bc-13e2-426c-9e98-786925ceb2db" "Alkali Metal Vapor Spectral Lamps" %}}." _Review of Scientific Instruments_ 32 (1961): 688-692.
+Bell, William E., Arnold Bloom, and James Lynch. "[Alkali Metal Vapor Spectral Lamps](https://aip.scitation.org/doi/10.1063/1.1717470)." _Review of Scientific Instruments_ 32 (1961): 688-692.
 
-Brewer, Richard G. "{{% resource_link "c45a377b-b073-409c-9450-a23190689647" "High Intensity Low Noise Rubidium Light Source" %}}." _Review of Scientific Instruments_ 32 (1961): 1356-1358.
+Brewer, Richard G. "[High Intensity Low Noise Rubidium Light Source](https://aip.scitation.org/doi/10.1063/1.1717251)." _Review of Scientific Instruments_ 32 (1961): 1356-1358.
 
-Shernoff, Donald I. "{{% resource_link "f8435745-0030-4949-bcaa-95ee162585fa" "Mercury Lamp for Optical Pumping" %}}." _Review of Scientific Instruments_ 40 (1969): 1418-1419.
+Shernoff, Donald I. "[Mercury Lamp for Optical Pumping](https://aip.scitation.org/doi/10.1063/1.1683814)." _Review of Scientific Instruments_ 40 (1969): 1418-1419.

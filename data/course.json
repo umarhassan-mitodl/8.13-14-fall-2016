@@ -23,6 +23,7 @@
     "website": "8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017"
   },
   "course_title": "Experimental Physics I & II \"Junior Lab\"",
+  "hide_download": true,
   "course_description": "Junior Lab consists of two undergraduate courses in experimental physics. The course sequence is usually taken by Juniors (hence the name). Officially, the courses are called Experimental Physics I and II and are numbered 8.13 for the first half, given in the fall semester, and 8.14 for the second half, given in the spring.\n\nEach term, students do experiments on phenomena whose discoveries led to major advances in physics. In the process, they deepen their understanding of the relations between experiment and theory, mostly in atomic and nuclear physics.\n",
   "department_numbers": [
     "8"
@@ -33,6 +34,7 @@
     "content": "5019ec79-755c-edbf-2310-67ce28ddcfc4",
     "website": "8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017"
   },
+  "hide_download_original": null,
   "learning_resource_types": [
     "Instructor Insights"
   ],

@@ -47,4 +47,4 @@ Reference Articles and Equipment Manuals
 
 At this stage of your training as an experimentalist, you should realize that there is no ‘comprehensive’ or perfect textbook. Much of the material you will need to dig into are the early journal papers which originally detailed many of these important discoveries.
 
-For more information on Technical Writing, please refer to {{% resource_link "1a9f665f-1e7a-412e-9d73-ece1f0b7cbf6" "_The Mayfield Handbook for Technical and Scientific Writing_" %}}.
+For more information on Technical Writing, please refer to [_The Mayfield Handbook for Technical and Scientific Writing_](http://www.mhhe.com/mayfieldpub/tsw/home.htm).

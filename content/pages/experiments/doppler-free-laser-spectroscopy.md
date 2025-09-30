@@ -5,6 +5,8 @@ description: In this section you will make use of an elegant technique known as 
   The primary experimental objective will be to use this technique to measure the
   hyperfine splittings in the S1/2 and P1/2 states of Rb. In addition, you will learn
   a bit about lasers in general and diode lasers in particular.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -35,7 +37,7 @@ Lab Guide
 References
 ----------
 
-Feld, M. S., and V. S. Letokhov. "{{% resource_link "fbc512d6-29b8-461c-99e0-73e872cf667c" "Laser Spectroscopy (PDF)" %}}." _Scientific American_ 229 (Dec. 1973): 69-85.
+Feld, M. S., and V. S. Letokhov. "[Laser Spectroscopy (PDF)](https://www.nature.com/scientificamerican/journal/v229/n6/pdf/scientificamerican1273-69.pdf)." _Scientific American_ 229 (Dec. 1973): 69-85.
 
 Letokhov, V. S. "Saturation Spectroscopy." Chapter 4 in _Topics in Applied Physics_, Edited by K. Shimoda. Berlin: Springer, 1976, pp. 95-171.
 
@@ -43,22 +45,22 @@ Letokhov, V. S., and V. P. Chebotayev. _Nonlinear Laser Spectroscopy._ Vol. 4, _
 
 Woodgate, G. K. "Hyperfine Structure and Isotope Shift." Chapter 9 in _Elementary Atomic Structure._ Oxford: Oxford University Press, 1983, pp. 168-187. ISBN: 9780198511564.
 
-Pappas, P. G., et al. "{{% resource_link "982ca5a6-a959-4330-adfa-68e4c1baf031" "Saturation Spectroscopy with Laser Optical Pumping in Atomic Barium" %}}." _The Physical Review_ 21A, no. 6 (1980): 1955-1968.
+Pappas, P. G., et al. "[Saturation Spectroscopy with Laser Optical Pumping in Atomic Barium](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.21.1955)." _The Physical Review_ 21A, no. 6 (1980): 1955-1968.
 
 Aminoff, C. and M. Pinard. "Velocity Selective Optical Pumping." _J Physique_ 43 (1982): 263-277.
 
-Nakayama, S. "{{% resource_link "03245de8-e726-4526-b363-279956d6cc76" "Theoretical Analysis of Rb and Cs D{{< sub \"2\" >}} Lines in Saturation Spectroscopy with Optical Pumping: Part I" %}}." _Journal of the Physical Society of Japan_ 23, no. 7 (1984): 879-883.
+Nakayama, S. "[Theoretical Analysis of Rb and Cs D{{< sub "2" >}} Lines in Saturation Spectroscopy with Optical Pumping: Part I](http://iopscience.iop.org/article/10.1143/JJAP.23.879/meta)." _Journal of the Physical Society of Japan_ 23, no. 7 (1984): 879-883.
 
-———. "{{% resource_link "224b249e-c2a9-47d1-ab1c-20060194c8b3" "Theoretical Analysis of Rb and Cs D{{< sub \"2\" >}} Lines in Doppler-Free Spectroscopic Techniques with Optical Pumping: Part II" %}}." _Journal of the Physical Society of Japan_ 24, no. 1 (1985): 1-7.
+———. "[Theoretical Analysis of Rb and Cs D{{< sub "2" >}} Lines in Doppler-Free Spectroscopic Techniques with Optical Pumping: Part II](http://iopscience.iop.org/article/10.1143/JJAP.24.1/meta)." _Journal of the Physical Society of Japan_ 24, no. 1 (1985): 1-7.
 
-———. "{{% resource_link "ce72453e-f29b-4a98-8046-0946de012d62" "Velocity Selective Optical Pumping Spectroscopy of D{{< sub \"1\" >}} Lines in Alkali Atoms" %}}." _Journal of the Physical Society of Japan_ 53 (1984): 3351-3361.
+———. "[Velocity Selective Optical Pumping Spectroscopy of D{{< sub "1" >}} Lines in Alkali Atoms](https://journals.jps.jp/doi/abs/10.1143/JPSJ.53.3351)." _Journal of the Physical Society of Japan_ 53 (1984): 3351-3361.
 
-Camparo, J. C. "{{% resource_link "32e74886-cf4c-4110-b1c7-16f15ba1bd53" "The Diode Laser in Atomic Physics" %}}." _Contemporary Physics_ 26, no. 5 (1985): 443-477.
+Camparo, J. C. "[The Diode Laser in Atomic Physics](https://www.tandfonline.com/doi/abs/10.1080/00107518508210984)." _Contemporary Physics_ 26, no. 5 (1985): 443-477.
 
-Brandenberger, J. R. "{{% resource_link "1f8a5df9-cc17-4fe9-87d6-ed6ea1e40a88" "Hyperfine Splittings in 4p5 5p Configuration of (83)Kr using Saturated Absorption Laser Spectroscopy" %}}." _The Physical Review A_ 39, no. 1 (January 1989): 64-68.
+Brandenberger, J. R. "[Hyperfine Splittings in 4p5 5p Configuration of (83)Kr using Saturated Absorption Laser Spectroscopy](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.39.64)." _The Physical Review A_ 39, no. 1 (January 1989): 64-68.
 
-Wieman, C. E., and L. Hollberg. "{{% resource_link "0a741d20-a281-4220-b966-018be6e538fb" "Using Diode Lasers for Atomic Physics" %}}." _The Review of Scientific Instruments_ 62, no. 1 (1991): 1-20.
+Wieman, C. E., and L. Hollberg. "[Using Diode Lasers for Atomic Physics](https://aip.scitation.org/doi/10.1063/1.1142305)." _The Review of Scientific Instruments_ 62, no. 1 (1991): 1-20.
 
-MacAdam, K. B., A. Steinbach, and C. Wieman. "{{% resource_link "a0d6c586-ca6d-45cd-8009-4d44ad4005eb" "A Narrow‐band Tunable Diode Laser System with Grating Feedback, and a Saturated Absorption Spectrometer for Cs and Rb" %}}." _American Journal of Physics_ 60, no. 12 (1992): 1098-1111.
+MacAdam, K. B., A. Steinbach, and C. Wieman. "[A Narrow‐band Tunable Diode Laser System with Grating Feedback, and a Saturated Absorption Spectrometer for Cs and Rb](https://aapt.scitation.org/doi/10.1119/1.16955)." _American Journal of Physics_ 60, no. 12 (1992): 1098-1111.
 
-Steck, D. "{{% resource_link "da96d8b5-ff0e-481c-b466-7271a906e9a9" "_Rubidium 87 D Line Data_ (PDF)" %}}." Los Alamos Theoretical Division (T-8). September 2001.
+Steck, D. "[_Rubidium 87 D Line Data_ (PDF)](http://www.steck.us/alkalidata/rubidium87numbers.1.6.pdf)." Los Alamos Theoretical Division (T-8). September 2001.

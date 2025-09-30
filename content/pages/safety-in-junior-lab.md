@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes detailed safety information.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Laboratory Safety and Regulations in Junior Lab
@@ -28,10 +30,10 @@ Beyond the specific safety procedures listed below, you must also obey the follo
 - **No eating, drinking, or other hand-to-mouth action in the lab.** Leave all food items outside the lab or in a closed container like a backpack.
 - **No working without properly trained lab staff present.** Do not work alone. No unauthorized access, after hours or otherwise.
 - No bare feet. No pets.
-- Treat radioactive sources according to the {{% resource_link "8bd3241c-403f-4813-9713-79de6664e7ee" "ALARA principle" %}}, as per your training.
+- Treat radioactive sources according to the [ALARA principle](https://www.nrc.gov/reading-rm/basic-ref/glossary/alara.html), as per your training.
 - Obey state regulations and Junior Lab practices on access and tracking of radioactive sources, as per your training.
 
-On the first day of 8.13 (Experimental Physics I), Junior Lab students receive a general safety discussion, a lab tour, and a formal state-mandated training in the use of sealed sources of ionizing radiation from a member of MIT’s Radiation Protection Program. This training is required for work in both 8.13 and 8.14 (Experimental Physics II). Students who will be performing experiments using biological materials, Class 3b or Class 4 lasers, or requiring access to the MIT Nuclear Reactor facility will require further formal training from {{% resource_link "30c1ae54-e05b-4b5b-bb6d-cac428539690" "MIT’s Office of Environment, Health and Safety (EHS)" %}}. The Junior Lab staff will provide information on the required training as needed.
+On the first day of 8.13 (Experimental Physics I), Junior Lab students receive a general safety discussion, a lab tour, and a formal state-mandated training in the use of sealed sources of ionizing radiation from a member of MIT’s Radiation Protection Program. This training is required for work in both 8.13 and 8.14 (Experimental Physics II). Students who will be performing experiments using biological materials, Class 3b or Class 4 lasers, or requiring access to the MIT Nuclear Reactor facility will require further formal training from [MIT’s Office of Environment, Health and Safety (EHS)](https://ehs.mit.edu/site/). The Junior Lab staff will provide information on the required training as needed.
 
 {{< anchor "chemical" >}}{{< /anchor >}}
 
@@ -53,7 +55,7 @@ The ampere is a large unit of current. The details of an injury will depend not 
 
 ## Radiation Safety
 
-Radiation safety at MIT is under the authority of the {{% resource_link "fe238669-b034-4e1c-a8f1-11f60df5418f" "Radiation Protection Program" %}}. Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
+Radiation safety at MIT is under the authority of the [Radiation Protection Program](https://ehs.mit.edu/radiological/). Junior Lab is accountable to that office for the safe handling and accountability of the sources used in the experiments. **Meticulous care must be taken by all students and staff to insure that every source signed out from the locked repository is returned immediately after its use and signed in.** (See Table 1.)
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 Experiment
@@ -182,10 +184,10 @@ Liquid helium, boiling at 4.2 K, requires significantly more careful handling th
 
 A laser beam may not seem very bright, but if it enters your eye it will be focused by the lens of your eye to a pinpoint spot on the retina where the intensity is sufficient to destroy retinal cells. It is wise to terminate a laser beam with a diffuse absorber so that the beam does not shine around the room. Never examine the performance of an optical system with a laser by viewing the beam directly with your eye or reflector.
 
-Students who perform the ‘Doppler-Free Saturated Absorption Spectroscopy’ or ‘Raman Spectroscopy’ experiments in 8.14 require additional laser safety training from MIT EHS, which must be completed prior to performing the experiment: EHS Course 371c (Laser Safety), about 1.5 hours in length, offered by EHS every two weeks. The ‘Doppler-Free’ experiment utilizes a near-IR laser operating at 40 mW of output power. As such, it is classified as a Class 3b laser. The ‘Raman Spectroscopy’ experiment utilizes a 532 nm (green) laser operating at 2 W, placing it in the highest laser safety category, Class 4. Class 3b and Class 4 lasers require special safety training to operate. All students should download the {{% resource_link "6f89b607-d474-49d4-a6a7-a3b224c69314" "MIT Laser Safety Manual (PDF)" %}} and read, at a minimum, Section Two.XVI.D dealing with Class 3b laser controls.
+Students who perform the ‘Doppler-Free Saturated Absorption Spectroscopy’ or ‘Raman Spectroscopy’ experiments in 8.14 require additional laser safety training from MIT EHS, which must be completed prior to performing the experiment: EHS Course 371c (Laser Safety), about 1.5 hours in length, offered by EHS every two weeks. The ‘Doppler-Free’ experiment utilizes a near-IR laser operating at 40 mW of output power. As such, it is classified as a Class 3b laser. The ‘Raman Spectroscopy’ experiment utilizes a 532 nm (green) laser operating at 2 W, placing it in the highest laser safety category, Class 4. Class 3b and Class 4 lasers require special safety training to operate. All students should download the [MIT Laser Safety Manual (PDF)](https://ehs.mit.edu/wp-content/uploads/Laser_Safety_Guide.pdf) and read, at a minimum, Section Two.XVI.D dealing with Class 3b laser controls.
 
 {{< anchor "biological" >}}{{< /anchor >}}
 
 ## Biological Safety
 
-Junior Lab is classified as a BL1 (Biohazard Safety Level 1) laboratory space, meaning that specific areas of the laboratory are authorized under the {{% resource_link "fb440f4c-688c-47f2-9ab0-a0f3e212c7d1" "MIT Biosafety Program" %}} for use of specific minimally infectious pathogens. (No human tissues are allowed.) Students who perform the ‘Optical Trapping’ biophysics experiment are required to complete EHS Course 260c (General Biosafety for Researchers) or 262c (Undergraduate Teaching Lab Biosafety) before beginning work on the experiment. A 262c training session with a member of the Biosafety Program will be organized early in the semester by the Junior Lab staff for all students who require it.
+Junior Lab is classified as a BL1 (Biohazard Safety Level 1) laboratory space, meaning that specific areas of the laboratory are authorized under the [MIT Biosafety Program](https://ehs.mit.edu/site/biosafety/biosafety) for use of specific minimally infectious pathogens. (No human tissues are allowed.) Students who perform the ‘Optical Trapping’ biophysics experiment are required to complete EHS Course 260c (General Biosafety for Researchers) or 262c (Undergraduate Teaching Lab Biosafety) before beginning work on the experiment. A 262c training session with a member of the Biosafety Program will be organized early in the semester by the Junior Lab staff for all students who require it.

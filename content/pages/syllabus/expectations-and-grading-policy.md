@@ -165,7 +165,7 @@ It is essential that you efficiently use all of the laboratory time assigned to 
 
 8.13 Students Only:
 
-> Failure to have a “dry run” of the final presentation with a {{% resource_link "22fdfea6-931d-4427-ac92-3d60cdb4c61f" "Writing, Rhetoric, and Professional Communication (WRAP)" %}} instructor will result in a 2% reduction of the lab performance grade. Failure to submit the preliminary oral exam or written summary will each result in a 1% reduction of the lab performance grade. 
+> Failure to have a “dry run” of the final presentation with a [Writing, Rhetoric, and Professional Communication (WRAP)](https://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) instructor will result in a 2% reduction of the lab performance grade. Failure to submit the preliminary oral exam or written summary will each result in a 1% reduction of the lab performance grade. 
 
 Laboratory Notebooks
 --------------------
@@ -201,7 +201,7 @@ Oral Examinations
 
 For each main experiment, a one-hour total length (2 students × 30 minutes each) oral examination and discussion will be scheduled with one or more of your instructors, your lab partner, and yourself within 10 days of the last scheduled session for that experiment. You and your lab partner must both bring your lab notebooks to the exam session. All oral exams are video-recorded so that you may review your presentation technique.
 
-Each student should prepare a 15-minute oral report on the theoretical and experimental aspects of a single portion of the experiment. This is a short time, so it is essential that you rehearse your presentation as you would if you were giving a 15-minute presentation at a meeting of the {{% resource_link "81a8c81f-1187-425c-9fba-870b2b8eab5b" "American Physical Society" %}}. Please review the {{% resource_link "ed5ed4b9-bf0e-449e-a6f8-2e0375831070" "Speaker Tips and Guidelines" %}}.
+Each student should prepare a 15-minute oral report on the theoretical and experimental aspects of a single portion of the experiment. This is a short time, so it is essential that you rehearse your presentation as you would if you were giving a 15-minute presentation at a meeting of the [American Physical Society](https://www.aps.org/). Please review the [Speaker Tips and Guidelines](http://www.aps.org/meetings/policies/speaker.cfm).
 
 You must prepare your visual aids electronically (e.g. slides in the LaTeX beamer class or MS PowerPoint) for use with a digital projector in a professional-style presentation. We suggest a maximum of ten slides. {{% resource_link 37724ef0-39b0-1ee5-0afa-95aa804d8a20 "Written and Oral Report Resources" %}} have detailed instructions and templates for generating your own presentations.
 
@@ -216,14 +216,14 @@ Orals exams will be graded using the following criteria:
 
 8.13 Students Only:
 
-> To familiarize you with the examination procedure, a one-hour oral exam will be held on one of the three preliminary experiments of your choice. This oral will proceed identically as the others. It will be scored but will not count towards your final course grade. (However, as discussed above, failure to execute the preliminary oral exam will result in a 1% deduction from the overall lab performance grade for the semester.) It is designed to give you feedback on content, style and presentation without the pressure of a graded performance. Partners should choose different preliminary experiments for this initial oral exam. Video recordings of these practice orals will be used to facilitate guidance from the Lecturers in {{% resource_link "8b589521-6600-4bd8-9cab-fc55447e753c" "MIT’s Program in Writing, Rhetoric, and Professional Practice (WRAP)" %}} who are part of the Junior Lab staff. You must schedule a one-hour appointment for feedback with one of these instructors within a week following their practice oral.
+> To familiarize you with the examination procedure, a one-hour oral exam will be held on one of the three preliminary experiments of your choice. This oral will proceed identically as the others. It will be scored but will not count towards your final course grade. (However, as discussed above, failure to execute the preliminary oral exam will result in a 1% deduction from the overall lab performance grade for the semester.) It is designed to give you feedback on content, style and presentation without the pressure of a graded performance. Partners should choose different preliminary experiments for this initial oral exam. Video recordings of these practice orals will be used to facilitate guidance from the Lecturers in [MIT’s Program in Writing, Rhetoric, and Professional Practice (WRAP)](http://cmsw.mit.edu/education/writing-rhetoric-professional-communication/) who are part of the Junior Lab staff. You must schedule a one-hour appointment for feedback with one of these instructors within a week following their practice oral.
 
 Final Public Oral Presentations (8.13 Students Only)
 ----------------------------------------------------
 
 At the end of the term in December, you will give a 15-minute public oral presentation which will be attended by all students in your section and any other interested parties. The last two class sessions are reserved for this purpose. The public oral presentations should be given in the style of a paper presented at a conference, with careful attention paid to the preparation of visual aids — in the form of an electronic presentation — and to the clarity of the oral discussion. Questions from classmates and the audience are encouraged, allowing for a general discussion of the experiment.
 
-This public presentation, in addition to the four jointly prepared oral examinations given earlier in the term, is a major component of the {{% resource_link "8f5aa71c-08d2-4d70-8022-5cca4487dde8" "CI-M requirement" %}} which 8.13 fulfills. Revision of past work is essential to this requirement, as it is to all formal communication. You are required to make a 1-hour appointment with a WRAP Program instructor to do a “dry run” and receive feedback at least four days prior to your public presentation. The dry run will not be graded, but, as mentioned above, failure to do it will result in a 2% reduction of the lab performance grade. Obviously, to present on an experiment in the public presentation, it must have previously been presented as an oral exam with the section instructor.
+This public presentation, in addition to the four jointly prepared oral examinations given earlier in the term, is a major component of the [CI-M requirement](http://web.mit.edu/commreq/depts%20ci-m.html) which 8.13 fulfills. Revision of past work is essential to this requirement, as it is to all formal communication. You are required to make a 1-hour appointment with a WRAP Program instructor to do a “dry run” and receive feedback at least four days prior to your public presentation. The dry run will not be graded, but, as mentioned above, failure to do it will result in a 2% reduction of the lab performance grade. Obviously, to present on an experiment in the public presentation, it must have previously been presented as an oral exam with the section instructor.
 
 Written Summaries
 -----------------
@@ -240,7 +240,7 @@ You must prepare your summary individually, not as a group. All of your work on 
 
 You must submit your written summary to your section instructor by the appointed deadline: specifically, written reports for each experiment will be due by midnight on the day after your oral exam. It is expected, however, that the paper will be essentially complete by the time of your oral exam. The delay between oral exam and paper submission allows you to correct any egregious mistakes that were uncovered during the exam so as not to repeat them in your written work and receive a double penalty!
 
-Your summary’s organization and style should resemble that of an article in the {{% resource_link "9c0840c9-b1be-4b15-a7b3-56478cfa8975" "_Physical Review Letters_" %}}. In particular, the abstract is essential. It should briefly mention the motivation (purpose), the method (how measured) and most importantly, the quantitative result with uncertainties.
+Your summary’s organization and style should resemble that of an article in the [_Physical Review Letters_](https://journals.aps.org/prl/authors). In particular, the abstract is essential. It should briefly mention the motivation (purpose), the method (how measured) and most importantly, the quantitative result with uncertainties.
 
 The report must be typeset in a form that would be suitable for submission as a manuscript. To aid you in this process, we have produced a sample paper template written in LATEX that we encourage you to study and use for your own submissions. The sample paper is downloadable from {{% resource_link 37724ef0-39b0-1ee5-0afa-95aa804d8a20 "Written and Oral Report Resources" %}} along with its associated .tex file.
 
@@ -252,7 +252,7 @@ Papers will be graded using the following criteria:
 *   Style and English: 15%
 *   Papers not submitted by the deadline will be deducted 10% for each day they are late.
 
-MIT has excellent resources for technical writing and oral presentations (including on-line writing consultations) at the {{% resource_link "4d4e802a-9432-4991-b49c-6b87bb5d3fe3" "CMSW Writing and Communication Center" %}} website. Use them!
+MIT has excellent resources for technical writing and oral presentations (including on-line writing consultations) at the [CMSW Writing and Communication Center](https://cmsw.mit.edu/writing-and-communication-center/) website. Use them!
 
 Open-Ended Project (8.14 Students Only)
 ---------------------------------------
