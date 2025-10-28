@@ -3,8 +3,6 @@ content_type: page
 description: This section describes the course, its meeting times, prerequisites,
   and requirements.
 draft: false
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -46,7 +44,7 @@ Beyond your required assigned lab time, the laboratory will be open every class 
 
 ## Ethics in Science and Education
 
-*Nature is the ultimate enforcer of truth in science.* You will be tempted many times in Junior Lab to tamper with the integrity of your scientific results. Do not. This hurts yourself and others. You may also be tempted to plagiarize materials for your oral and written reports. Do not. All instances of academic misconduct in Junior Lab will be punished severely. Students are highly encouraged to review the materials on [MIT’s Academic Integrity website](http://integrity.mit.edu/).
+*Nature is the ultimate enforcer of truth in science.* You will be tempted many times in Junior Lab to tamper with the integrity of your scientific results. Do not. This hurts yourself and others. You may also be tempted to plagiarize materials for your oral and written reports. Do not. All instances of academic misconduct in Junior Lab will be punished severely. Students are highly encouraged to review the materials on {{% resource_link "994716bf-808f-4126-a639-a3a6ea120221" "MIT’s Academic Integrity website" %}}.
 
 Please consult Junior Lab’s more extensive {{% resource_link "6c3edbd8-8f2c-3782-ac65-107cfbe910a2" "Ethics in Science and Education section" %}} — which you are obligated to understand — for more specific discussion.
 
@@ -56,10 +54,10 @@ Your safety in Junior Lab is the staff’s top priority. It should be your top p
 
 1. Never work alone.
 2. No eating or drinking in the lab.
-3. Treat radioactive sources according to the [ALARA principle](https://www.nrc.gov/reading-rm/basic-ref/glossary/alara.html), as per your training.
+3. Treat radioactive sources according to the {{% resource_link "210d141a-64cd-4e99-93f0-ee918452fa4b" "ALARA principle" %}}, as per your training.
 4. Obey state regulations and Junior Lab practices on access and tracking of radioactive sources, as per your training.
 
-On the first day of 8.13, Junior Lab students receive a general safety discussion, a lab tour, and a formal state-mandated training in the use of sealed sources of ionizing radiation from a member of MIT’s Radiation Protection Program. This training is required for work in both 8.13 and 8.14. Students who will be performing experiments using biological materials, Class 3b or Class 4 lasers, or requiring access to the MIT Nuclear Reactor facility will require further formal training from [MIT’s Office of Environment, Health and Safety (EHS)](https://ehs.mit.edu/site/). The Junior Lab staff will provide information on the required training as needed.
+On the first day of 8.13, Junior Lab students receive a general safety discussion, a lab tour, and a formal state-mandated training in the use of sealed sources of ionizing radiation from a member of MIT’s Radiation Protection Program. This training is required for work in both 8.13 and 8.14. Students who will be performing experiments using biological materials, Class 3b or Class 4 lasers, or requiring access to the MIT Nuclear Reactor facility will require further formal training from {{% resource_link "a8f1b569-3313-4969-8b00-006dabfd2200" "MIT’s Office of Environment, Health and Safety (EHS)" %}}. The Junior Lab staff will provide information on the required training as needed.
 
 In particular, the ‘Doppler-Free Saturated Absorption Spectroscopy’ experiment utilizes a Class 3b near-IR laser operating at 40 mW of output power; the ‘Raman Spectroscopy’ experiment utilizes a Class 4 532 nm 2 W laser. As such, all users of these experiments must undergo MIT Laser Safety Training (EHS Course 371C, about 1.5 hours in length, offered by EHS every few weeks) prior to performing the experiment. All students should download the MIT Laser Safety manual and read, at a minimum, Section Two.XVI.D dealing with Class 3b laser controls.
 
