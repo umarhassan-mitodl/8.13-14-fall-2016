@@ -4,8 +4,6 @@ description: ''
 file: /courses/8-13-14-experimental-physics-i-ii-junior-lab-fall-2016-spring-2017/ae3c1603dd35796fef2d5411f56aad98_Atissa-comp.png
 file_size: 33784
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -32,11 +32,11 @@ Lab Guide
 References
 ----------
 
-Planck, Max. Nobel Prize Lecture, "[The Genesis and Present State of Development of the Quantum Theory](https://www.nobelprize.org/nobel_prizes/physics/laureates/1918/planck-lecture.html)." (1918).
+Planck, Max. Nobel Prize Lecture, "{{% resource_link "1ef101af-bcd2-446c-8ab9-9b57dd6119fb" "The Genesis and Present State of Development of the Quantum Theory" %}}." (1918).
 
-Einstein, Albert. Nobel Prize Lecture, "[Fundamental Ideas and Problems of the Theory of Relativity](https://www.nobelprize.org/prizes/physics/1921/einstein/lecture/)." (1921).
+Einstein, Albert. Nobel Prize Lecture, "{{% resource_link "d66d15a0-e8a1-4a70-ae16-46575018a5cd" "Fundamental Ideas and Problems of the Theory of Relativity" %}}." (1921).
 
-Millikan, R.A. "[A Direct Photoelectric Determination of Planck's 'h'](https://journals.aps.org/pr/abstract/10.1103/PhysRev.7.355)." _Phys. Rev_., 7, 355 (1916).
+Millikan, R.A. "{{% resource_link "6bd5be42-a286-4cce-9d34-2e44d7b00721" "A Direct Photoelectric Determination of Planck's 'h'" %}}." _Phys. Rev_., 7, 355 (1916).
 
 Hughes, Arthur L., and Lee A. Du Bridge. _Photoelectric Phenomena_. Boston, MA: McGraw-Hill, (1932).
 

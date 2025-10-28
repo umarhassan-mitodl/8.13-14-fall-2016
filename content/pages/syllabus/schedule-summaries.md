@@ -44,7 +44,7 @@ The remaining experimental options are:
 *   The Frank-Hertz Experiment
 *   Johnson Noise and Shot Noise
 
-The term culminates in a week-long series of public oral presentations given by you and your fellow students to peers, friends, and faculty in the style of a parallel session at an [American Physical Society](https://www.aps.org/) conference.
+The term culminates in a week-long series of public oral presentations given by you and your fellow students to peers, friends, and faculty in the style of a parallel session at an {{% resource_link "beb6e53d-7cc5-4fe6-9b1d-79b29c0bb351" "American Physical Society" %}} conference.
 
 8.14 Experimental Physics II Schedule Summary
 ---------------------------------------------
@@ -55,7 +55,7 @@ Before the second experiment begins, each student group will propose a schedule 
 
 *   Deeper exploration of a previously performed 8.13 or 8.14 experiment
 *   Performing an experiment still under development by the Junior Lab staff
-*   Assembling and performing a simple Junior Lab style experiment from the [_American Journal of Physics_](https://aapt.scitation.org/journal/ajp)
+*   Assembling and performing a simple Junior Lab style experiment from the {{% resource_link "957a3089-6997-4139-bab8-2d33315eae39" "_American Journal of Physics_" %}}
 *   Other projects subject to approval
 
 The project schedule:

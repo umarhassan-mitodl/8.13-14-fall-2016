@@ -2,8 +2,6 @@
 content_type: page
 description: 'This section talks about production and absorption of X-rays; Moseley''s
   law; fine structure of the K lines of the elements, etc. '
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -38,21 +36,21 @@ Moseley, H. G. J. "The High-Frequency Spectra of the Elements, Part I." _Philoso
 
 ———. "The High-Frequency Spectra of the Elements, Part II." _Philosophical Magazine,_ no. 26 (1913): 1024.
 
-Compton, Arthur H. "[The Spectrum of Scattered X-Rays](https://journals.aps.org/pr/abstract/10.1103/PhysRev.22.409)." _The Physical Review_ 22, no. 5 (November 1923): 409-413. Second Series.
+Compton, Arthur H. "{{% resource_link "817613f4-c72e-4212-8aed-bea725ccc1f5" "The Spectrum of Scattered X-Rays" %}}." _The Physical Review_ 22, no. 5 (November 1923): 409-413. Second Series.
 
-Siegbahn, Karl Manne Georg. Nobel Prize Lecture, "[The X-ray Spectra and the Structure of the Atoms](https://www.nobelprize.org/prizes/physics/1924/siegbahn/lecture/)." (1924).
+Siegbahn, Karl Manne Georg. Nobel Prize Lecture, "{{% resource_link "956fada9-c0d0-4286-8cfd-5253d331541c" "The X-ray Spectra and the Structure of the Atoms" %}}." (1924).
 
-Compton, Arthur Holly. Nobel Prize Lecture, "[X-rays as a Branch of Optics](https://www.nobelprize.org/prizes/physics/1927/compton/lecture/)." (1927).
+Compton, Arthur Holly. Nobel Prize Lecture, "{{% resource_link "da0745a1-406a-4c47-92a0-7c6bdae2379d" "X-rays as a Branch of Optics" %}}." (1927).
 
 Compton, Arthur H., and Samuel K. Allison. "The Interpretation of X-ray Spectra." In _X-Rays in Theory and Experiment._ 2nd ed. New York, NY: D. Van Nostrand, 1935, pp. 590-595 and 647-655.
 
-Bearden, J. A. "[X-Ray Wavelengths](https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.39.78)." _Reviews of Modern Physics_ 39, no. 1 (1967): 78-124.
+Bearden, J. A. "{{% resource_link "0ae766a8-f4d3-4c89-b2c4-990dd298a49e" "X-Ray Wavelengths" %}}." _Reviews of Modern Physics_ 39, no. 1 (1967): 78-124.
 
-Way, K. "[Atomic Data Related to X and XUV Radiation](https://www.sciencedirect.com/science/article/pii/0092640X78900128?via%3Dihub)." In _Atomic Data and Nuclear Data Tables_ 22 (1978): 125-130.
+Way, K. "{{% resource_link "0e5fe492-d545-47f3-8d8f-ca4444798f3c" "Atomic Data Related to X and XUV Radiation" %}}." In _Atomic Data and Nuclear Data Tables_ 22 (1978): 125-130.
 
 Krause, M. O., and J. H. Oliver. "Natural Linewidths of Atomic K and L Levels, K-alpha X-Ray Lines." _Journal of Physical and Chemical Reference Data_ 8, no. 2 (1979): 329-338.
 
 Selected Resources
 ------------------
 
-[NIST X-Ray Transition Energies Database](http://physics.nist.gov/PhysRefData/XrayTrans/index.html)
+{{% resource_link "d99ebf50-36c5-4680-adfe-432a23ba3245" "NIST X-Ray Transition Energies Database" %}}

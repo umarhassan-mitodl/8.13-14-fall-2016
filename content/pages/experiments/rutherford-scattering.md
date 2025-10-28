@@ -4,8 +4,6 @@ description: The scattering of alpha particles by nuclei. Nearly monoenergetic a
   particles (He nuclei) in a collimated beam from an source are scattered from thin
   foils of gold or titanium, and the intensities of the scattered alpha particles
   are measured with a silicon barrier detector at various scattering angles.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -36,9 +34,9 @@ Lab Guide
 References
 ----------
 
-Rutherford, Ernest. "[The Scattering of Alpha and Beta Particles by Matter and the Structure of the Atom](https://www.tandfonline.com/doi/abs/10.1080/14786440508637080)." _Philosophical Magazine_ 21 (1911): 669-688. Sixth Series.
+Rutherford, Ernest. "{{% resource_link "6afd0b61-fa14-47ca-a6f0-85cbcb5f35a2" "The Scattering of Alpha and Beta Particles by Matter and the Structure of the Atom" %}}." _Philosophical Magazine_ 21 (1911): 669-688. Sixth Series.
 
-Geiger, H. "[The Scattering of the Alpha-Particles by Matter](https://www.jstor.org/stable/92906?seq=1#page_scan_tab_contents)." _Proceedings of the Royal Society of London_ 83, no. 565 (1910): 492-504.
+Geiger, H. "{{% resource_link "4841ef4a-2619-4a9f-853f-a82203df01a6" "The Scattering of the Alpha-Particles by Matter" %}}." _Proceedings of the Royal Society of London_ 83, no. 565 (1910): 492-504.
 
 Eisberg, Robert M. "The Discovery of the Atomic Nucleus." In _Fundamentals of Modern Physics._ New York, NY: Wiley, 1963, pp. 87-109.
 
@@ -55,4 +53,4 @@ Gasiorowiez, S. "The Born Approximation." In _Quantum Physics._ 3rd ed. Hoboken,
 Selected Resources
 ------------------
 
-[Stopping Power and Range Tables for Helium Ions](http://physics.nist.gov/PhysRefData/Star/Text/ASTAR.html)
+{{% resource_link "c8285e36-5ad9-4ba0-a78f-53d7c1f783ee" "Stopping Power and Range Tables for Helium Ions" %}}

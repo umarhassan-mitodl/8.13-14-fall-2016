@@ -5,8 +5,6 @@ description: Distributions in numbers of counts for random events at fixed mean 
   to a weak source of gamma rays. The results are compared to the theoretical Poisson
   distributions for the measuredmeans, and with the results of Monte Carlo simulations
   of Poisson distributions.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -35,7 +33,7 @@ Lab Guide
 Selected Resources
 ------------------
 
-[HyperPhysics Applied Statistics Overview](http://hyperphysics.phy-astr.gsu.edu/hbase/math/statcon.html#c1)
+{{% resource_link "8d639ae7-6e8a-43de-ac6f-e301b95f2426" "HyperPhysics Applied Statistics Overview" %}}
 
 {{% resource_link f6e11d0c-777c-e2a3-a5f5-0d6aaed3138c "poisson.m (M)" %}}
 

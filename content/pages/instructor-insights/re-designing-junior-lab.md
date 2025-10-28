@@ -2,8 +2,6 @@
 content_type: page
 description: "In this section Dr. Sean Robinson discusses the course re-design that\
   \ shifted how instructors and students experience \u201CJunior Lab.\u201D"
-hide_download: true
-hide_download_original: null
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

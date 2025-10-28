@@ -4,8 +4,6 @@ description: This section talks about the scattering of high-energy photons by e
   High-energy (662 keV) photons in a collimated beam from a radioactive 137 Cs source
   are scattered from electrons in a target which is itself a scintillation counter
   which detects the recoil electron.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -36,13 +34,13 @@ Lab Guide
 References
 ----------
 
-Compton, Arthur H. Nobel Prize Lecture, "[X-rays as a Branch of Optics](https://www.nobelprize.org/prizes/physics/1927/compton/lecture/)." (1927).
+Compton, Arthur H. Nobel Prize Lecture, "{{% resource_link "da0745a1-406a-4c47-92a0-7c6bdae2379d" "X-rays as a Branch of Optics" %}}." (1927).
 
 ———. Abstract for "Wave-length Measurements of Scattered X-rays." _The Physical Review_ 21 (1923): 715.
 
-———. "[The Spectrum of Scattered X-Rays](https://journals.aps.org/pr/abstract/10.1103/PhysRev.22.409)." _The Physical Review_ 22, (1923): 409-413.
+———. "{{% resource_link "817613f4-c72e-4212-8aed-bea725ccc1f5" "The Spectrum of Scattered X-Rays" %}}." _The Physical Review_ 22, (1923): 409-413.
 
-———. "[A Quantum Theory of the Scattering of X-Rays by Light Elements](https://journals.aps.org/pr/abstract/10.1103/PhysRev.21.483)." _The Physical Review_ 21, (1922): 483-502.
+———. "{{% resource_link "40246940-45f5-4332-85c7-7c0ed3739261" "A Quantum Theory of the Scattering of X-Rays by Light Elements" %}}." _The Physical Review_ 21, (1922): 483-502.
 
 Hofstadter, Robert, and John A. McIntyre. "Measurement of Gamma-Ray Energies with Two Crystals in Coincidence." _The Physical Review_ 78 (1950): 619-620.
 
@@ -50,9 +48,9 @@ Lazar, N. H., R. C. Davis, and P. R. Bell. "Peak Efficiency of NaI." _Nucleonics
 
 Melissinos, Adrian C. "Compton Scattering." In _Experiments in Modern Physics._ San Diego, CA: Academic Press, 1966, pp. 253-265.
 
-Garner, R. P., and K. Verghese. "[On the Solid Angle Subtended by a Circular Disc](https://www.sciencedirect.com/science/article/pii/0029554X71901558)." _Nuclear Instruments and Methods_ 93 (1971): 163-167.
+Garner, R. P., and K. Verghese. "{{% resource_link "5844428f-3cf1-4246-970d-d833742b9e82" "On the Solid Angle Subtended by a Circular Disc" %}}." _Nuclear Instruments and Methods_ 93 (1971): 163-167.
 
-Higbie, J. "[Undergraduate Relativity Experiment](https://eric.ed.gov/?id=EJ103134)." _American Journal of Physics_ 42 (1974): 642-644.
+Higbie, J. "{{% resource_link "241e31a5-c940-404c-878c-860fe4a19b4a" "Undergraduate Relativity Experiment" %}}." _American Journal of Physics_ 42 (1974): 642-644.
 
 Knoll, G. F. "Optimization of Counting Experiments." In _Radiation Detection and Measurement._ 3rd ed. New York, NY: John Wiley, 2000, pp. 92-95. ISBN: 9780471073383.
 

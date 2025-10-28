@@ -6,8 +6,6 @@ description: 'Experiments in relativistic kinematics: the universal speed limit 
   scintillation counters in the laboratory. The mean life of muons at rest is then
   determined from a measurement of the distribution of radioactive decay times of
   muons that stop in a large plastic scintillator.'
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Experiments
@@ -44,9 +42,9 @@ Rossi, Bruno. "Interpretation of Cosmic-Ray Phenomena." _Reviews of Modern Physi
 
  ———. _Cosmic Rays._ New York, NY: McGraw-Hill, 1964.
 
-Frisch, D. H., and J. H. Smith. "[Measurement of the Relativistic Time Dilation Using mu-Mesons](https://aapt.scitation.org/doi/10.1119/1.1969508)." _American Journal of Physics_ 31 (1963): 342-355.
+Frisch, D. H., and J. H. Smith. "{{% resource_link "d3a7d603-efe2-470b-8451-0f89d82393f0" "Measurement of the Relativistic Time Dilation Using mu-Mesons" %}}." _American Journal of Physics_ 31 (1963): 342-355.
 
-Hall, R. E., D. A. Lind, and R. A. Ristinen. "[A Simplified Muon Lifetime Experiment for the Instructional Laboratory](https://aapt.scitation.org/doi/10.1119/1.1976002)." _American Journal of Physics_ 38 (1970): 1196-1200.
+Hall, R. E., D. A. Lind, and R. A. Ristinen. "{{% resource_link "9c32b5d5-d963-4378-b40c-a6809456c550" "A Simplified Muon Lifetime Experiment for the Instructional Laboratory" %}}." _American Journal of Physics_ 38 (1970): 1196-1200.
 
 Griffiths, David. _Introduction to Elementary Particles._ New York, NY: Wiley, 1987, chapter 1, pp. 1-51. ISBN: 9780471603863.
 
@@ -59,4 +57,4 @@ A nice comparison positon spectra from muon (three body) and pion (two body deca
 Selected Resource
 -----------------
 
-Stanford Linear Accelerator [High Energy Cosmic Rays](http://www.slac.stanford.edu/econf/C040802/lec_notes/Stanev/default.htm#top): A very nice overview of current cosmic ray research by Prof. Todor Stanev.
+Stanford Linear Accelerator {{% resource_link "143925ac-0425-4cbc-93eb-5145ee6dedf6" "High Energy Cosmic Rays" %}}: A very nice overview of current cosmic ray research by Prof. Todor Stanev.

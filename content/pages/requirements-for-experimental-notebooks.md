@@ -2,8 +2,6 @@
 content_type: page
 description: This section talks about the importance of maintaining a laboratory notebook
   and requirements for the notebook.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Requirements for Experimental Notebooks
